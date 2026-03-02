@@ -5,7 +5,7 @@ from os import environ
 
 API_ID = int(environ.get("API_ID", "38998036"))
 API_HASH = environ.get("API_HASH", "4bc9387ffd9d07bef04d8a2328524ba9")
-BOT_TOKEN = environ.get("BOT_TOKEN", "")
+BOT_TOKEN = environ.get("BOT_TOKEN", "8627385820:AAGfNyz5-6Si7x2kTRJ0B3rEHLtxdkQ7meQ")
 
 OWNER = int(environ.get("OWNER", "6100117264"))
 CREDIT = environ.get("CREDIT", "ADITYA")
@@ -33,4 +33,5 @@ photoyt = 'https://tinypic.host/images/2025/03/18/YouTube-Logo.wine.png' #https:
 photocp = 'https://tinypic.host/images/2025/03/28/IMG_20250328_133126.jpg'
 photozip = 'https://envs.sh/cD_.jpg'
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.
+
 
